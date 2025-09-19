@@ -1,6 +1,6 @@
 Гайды по установке и настройке готовой сборки Sangoma Linux 7 + Asterisk 18.16 + freePBX 16.0.33.
 
-1. Как развернуть IP телефонию на Windows через Virtual Box.
+1. Как развернуть IP телефонию на Windows через Virtual Box + как сделать экспорт настроек.
 2. Настройка вводной части freePBX.
 3. Настройки firewall в freePBX.
 3.1 Как настроить Intrusion Detection, он же IP Tables, он же WhiteList.
