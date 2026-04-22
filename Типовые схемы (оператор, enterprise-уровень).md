@@ -17,16 +17,19 @@ FreeSWITCH / Asterisk (логика звонка, IVR, конференции).
 Пользователи / приложения.  
 
 Роли:  
-Oracle SBC.  
+
+[Oracle SBC].  
 Oracle Communications Session Border Controller.  
 •	Стоит на границе сети.  
 •	Первый контакт с внешним миром.  
 •	Безопасность, NAT, транскодинг, защита.  
-Kamailio.  
+
+[Kamailio].  
 •	Внутренний SIP routing core.  
 •	Маршрутизация, балансер, регистрация.  
 •	«Мозг» сигнализации.  
-FreeSWITCH.  
+
+[FreeSWITCH].  
 •	Обрабатывает сам звонок.  
 •	IVR, конференции, запись, логика.  
 
@@ -34,5 +37,5 @@ FreeSWITCH.
 Варик 2 (упрощённый).  
 SIP trunk / Внешний мир – Kamailio – FreeSWITCH / Asterisk – Пользователи / приложения.  
 
-Варик 3 (ещё более упрощённый).  
-SIP trunk / Внешний мир – SBC – FreeSWITCH / Asterisk – Пользователи / приложения.  
+Варик 3 (ещё более упрощённый).
+SIP trunk / Внешний мир – SBC – FreeSWITCH / Asterisk – Пользователи / приложения.
