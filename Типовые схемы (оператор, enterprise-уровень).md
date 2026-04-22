@@ -35,4 +35,4 @@ FreeSWITCH.
 SIP trunk / Внешний мир – Kamailio – FreeSWITCH / Asterisk – Пользователи / приложения.  
 
 Варик 3 (ещё более упрощённый).  
-SIP trunk / Внешний мир - SBC – FreeSWITCH / Asterisk – Пользователи / приложения.  
+SIP trunk / Внешний мир – SBC – FreeSWITCH / Asterisk – Пользователи / приложения.  
