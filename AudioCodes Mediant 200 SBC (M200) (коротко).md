@@ -13,7 +13,12 @@ SBC – Session Border Controller.
 
 Где он находится в архитектуре?  
 Стандартная схема:  
-SIP-телефоны / Asterisk / FreeSWITCH / Kamailio  
+
+SIP-телефоны  
+|  
+Asterisk / FreeSWITCH  
+|  
+Kamailio  
 |  
 M200 (SBC / шлюз)  
 |  
