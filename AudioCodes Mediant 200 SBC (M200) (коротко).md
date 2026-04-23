@@ -14,7 +14,7 @@ SBC – Session Border Controller.
 Где он находится в архитектуре?  
 Стандартная схема:  
 
-SIP-телефоны  
+SIP-телефоны / пользователи  
 |  
 Asterisk / FreeSWITCH  
 |  
