@@ -35,10 +35,10 @@ Oracle Communications Session Border Controller.
 
 Более реалистичные варианты.  
 Варик 2 (упрощённый).  
-SIP trunk / Внешний мир – Kamailio – FreeSWITCH / Asterisk – Пользователи / приложения.  
+SIP trunk / Внешний мир – SBC – FreeSWITCH / Asterisk – Пользователи / приложения.  
 
 Варик 3 (ещё более упрощённый).  
-SIP trunk / Внешний мир – SBC – FreeSWITCH / Asterisk – Пользователи / приложения.  
+SIP trunk / Внешний мир – Kamailio – FreeSWITCH / Asterisk – Пользователи / приложения.  
 
 Варик 4 (совсем для нежити).  
 SIP trunk / Внешний мир – FreeSWITCH / Asterisk – Пользователи / приложения.  
