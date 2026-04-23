@@ -37,9 +37,14 @@ Oracle SBC – это «телеком-шлюз безопасности», ко
 
 Как выглядит архитектура?  
 Пример схемы:  
-IP-телефоны / Asterisk / FreeSWITCH / Kamailio.  
+
+SIP-телефоны / пользователи.  
 |  
-Oracle SBC.  
+Asterisk / FreeSWITCH.  
+|  
+Kamailio.  
+|  
+Oracle SBC (session border controller).  
 |  
 операторы связи / PSTN / другие VoIP-сети.  
 
